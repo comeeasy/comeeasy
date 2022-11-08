@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/comeeasy">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Junhi Kim;Researcher+%7C+Master's+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Generative Models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Junho Kim;Researcher+%7C+Master's+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Generative Models" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -35,9 +35,6 @@
 | [Sketch-RNN pytorch](https://github.com/comeeasy/sketch-photo2seq-torch) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [CoinAutoTrading](https://github.com/comeeasy/Coin_Auto_Trading) | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![BithumbAPI](https://img.shields.io/badge/BithumbAPI-black?style=flat-square&logo=bithumb)|
 | [AllEye](https://github.com/comeeasy/AllEye) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
-| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
 <!--
 </td><td>
@@ -79,10 +76,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comeeasy&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comeeasy&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=comeeasy&theme=dracula)
 
 
 <br>
