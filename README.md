@@ -1,8 +1,6 @@
-
-<p align="center">
-
 ### PLUS ULTRA 🚀. 안녕하세요. 김준호입니다.
-    
+
+<p align="center">    
 <a href="https://github.com/comeeasy">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Junho Kim;Researcher+%7C+Master's+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Generative Models" alt="Typing SVG" />
 </a>
