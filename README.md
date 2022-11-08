@@ -36,7 +36,6 @@
 | [CoinAutoTrading](https://github.com/comeeasy/Coin_Auto_Trading) | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![BithumbAPI](https://img.shields.io/badge/BithumbAPI-black?style=flat-square&logo=bithumb)|
 | [AllEye](https://github.com/comeeasy/AllEye) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 
-<!--
 </td><td>
 
 |Title | Technologies|
@@ -47,29 +46,6 @@
 | [Color Logger](https://github.com/drkostas/termcolor-logger)| [![LogPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/termcolor-logger/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br>[![LogDown](https://static.pepy.tech/personalized-badge/termcolor-logger?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/termcolor-logger)|
 | [Email Sender](https://github.com/drkostas/pyemail-sender)| [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
 | [Benchmark Tools](https://github.com/drkostas/bench-utils)| [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
-
-</td></tr> </table>
-
-<table>
-<tr><th>Bots </th><th>Misc Projects </th></tr>
-<tr><td>
-
-|Title | Technologies|
-|--|--|
-| [Youtube Comment Bot](https://github.com/drkostas/Youtube-FirstCommentBot)| ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)  |
-| [Job Application Bot](https://github.com/drkostas/JobApplicationBot)| ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)  |
-
-</td><td>
-
-|Title | Technologies|
-|--|--|
-| [Spotify Button Presser](https://github.com/drkostas/SpotiClick)| ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
-| [Cross The Floor](https://github.com/drkostas/Cross-The-Floor)| ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
-| [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js)| ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
-| [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App)| ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
-
-</td></tr> </table>
--->
 
 <details>
 <summary>📈 Stats</summary>
