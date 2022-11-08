@@ -48,29 +48,14 @@
 | [RealTime Kernel](https://github.com/comeeasy/SMU-Realtime-kernel)| ![µC/OS2](https://img.shields.io/badge/µC/OSII-black) ![EK-TM4C1294XL](https://img.shields.io/badge/EK_TM4C1294XL-black)|
 | [Machine Learning](https://github.com/comeeasy/SMU-Machine-Learning)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)  |
 | [Bigdata Analysis](https://github.com/comeeasy/Bigdata-Analysis)| ![Spark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=spark) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy) |
-| [Context Switching](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching) | ![FRDM-K64F](https://img.shields.io/badge/FRDM-K64F-black) ![ARM-ARCH](https://img.shields.io/badge/ARM_ARCH-black)
-    
-    
-<details>
-<summary>📈 Stats</summary>
-<br>
+| [Context Switching](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching) | ![FRDM_K64F](https://img.shields.io/badge/FRDM-K64F-black) ![ARM-ARCH](https://img.shields.io/badge/ARM_ARCH-black)
+</table>    
+
 My Github Stats
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comeeasy&theme=dracula) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comeeasy&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=comeeasy&theme=dracula)
 
-
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
-
-</details>
-
-<!--
-**comeeasy/comeeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
