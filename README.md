@@ -46,7 +46,7 @@
 
 |Title | Technologies|
 |--|--|
-| [jetson inference](https://github.com/comeeasy/jetson-inference-kor)| |
+| [jetson inference](https://github.com/comeeasy/jetson-inference-kor)| ![](https://img.shields.io/badge/JetsonNano-black) |
 | [Multimedia Data Analysis](https://github.com/comeeasy/SMU-Multimedia-Data-Analysis)| ![MATLAB](https://img.shields.io/badge/MATLAB-black?style=flat-square&logo=matlab)|
 | [Unix Programming](https://github.com/comeeasy/SMU-Unix-programming)| ![Linux](https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu)|
 | [RealTime Kernel](https://github.com/comeeasy/SMU-Realtime-kernel)| ![µC/OS2](https://img.shields.io/badge/µC/OSII-black) ![EK-TM4C1294XL](https://img.shields.io/badge/EK_TM4C1294XL-black)|
