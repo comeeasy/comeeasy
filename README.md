@@ -51,9 +51,8 @@
 | [Context Switching](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching) | ![FRDM_K64F](https://img.shields.io/badge/FRDM-K64F-black) ![ARM-ARCH](https://img.shields.io/badge/ARM_ARCH-black)
 </table>    
 
-<p align="center">
+    Hello<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comeeasy&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comeeasy&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=comeeasy&theme=dracula)
@@ -69,4 +68,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</p>
+
