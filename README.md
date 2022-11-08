@@ -1,6 +1,10 @@
 ### PLUS ULTRA 🚀
 ### 안녕하세요. 김준호입니다.
 
+- 🔭 I’m currently working on University of Sangmyung in Seoul, Korea.
+- 🌱 I’m currently learning 3D Reconstruction and Sketch Generation.
+- 📫 How to reach me: zz1236zz@gmail.com
+
 <p align="center">    
 <a href="https://github.com/comeeasy">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Junho Kim;Researcher+%7C+Master's+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+&+Graphics%7C+Real-Time System" alt="Typing SVG" />
@@ -51,21 +55,7 @@
 | [Context Switching](https://github.com/comeeasy/SangMyung-MP-team4-Multi-Thread-Context-Switching) | ![FRDM_K64F](https://img.shields.io/badge/FRDM-K64F-black) ![ARM-ARCH](https://img.shields.io/badge/ARM_ARCH-black)
 </table>    
 
-    Hello<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comeeasy&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comeeasy&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=comeeasy&theme=dracula)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
