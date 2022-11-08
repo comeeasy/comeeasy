@@ -47,6 +47,8 @@
 | [Email Sender](https://github.com/drkostas/pyemail-sender)| [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
 | [Benchmark Tools](https://github.com/drkostas/bench-utils)| [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
 
+</table>
+    
 <details>
 <summary>📈 Stats</summary>
 <br>
