@@ -35,6 +35,7 @@
 | [Sketch-RNN pytorch](https://github.com/comeeasy/sketch-photo2seq-torch) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [CoinAutoTrading](https://github.com/comeeasy/Coin_Auto_Trading) | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![BithumbAPI](https://img.shields.io/badge/BithumbAPI-black?style=flat-square&logo=bithumb)|
 | [AllEye](https://github.com/comeeasy/AllEye) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+| [VOneNet](https://github.com/comeeasy/R320_VOneNet) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) [![vonenet](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://proceedings.neurips.cc/paper/2020/file/98b17f068d5d9b7668e19fb8ae470841-Paper.pdf) |
 
 </td><td>
 
