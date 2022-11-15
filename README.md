@@ -1,8 +1,6 @@
 ### PLUS ULTRA 🚀
 ### 안녕하세요. 김준호입니다.
 
-안녕하세요
-
 - 🔭 I’m currently working on University of Sangmyung in Seoul, Korea.
 - 🌱 I’m currently learning 3D Reconstruction and Sketch Generation.
 - 📫 How to reach me: zz1236zz@gmail.com
