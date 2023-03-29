@@ -23,7 +23,7 @@
 
 * 🚀 Pursuing Master's Degree in Computer Graphics Vision Media, **CGVM**.
 
-* 🖌 Researching on **AI** and **Computer Vision**. 
+* 🖌 Researching on **AI** and **Computer Vision, Generative Models*. 
 
 * 🤩 Currently working on 3D Reconstruction and Sketch Generation.
 
