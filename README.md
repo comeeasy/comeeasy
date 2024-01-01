@@ -1,8 +1,8 @@
 ### PLUS ULTRA 🚀
 ### 안녕하세요. 김준호입니다.
 
-- 🔭 I’m currently working on University of Sangmyung in Seoul, Korea.
-- 🌱 I’m currently learning 3D Reconstruction and Sketch Generation.
+- 🔭 I’m currently studying on Sangmyung university in Seoul, Korea.
+- 🌱 I’m currently interested in sketch generation, computer vision related tasks and further.
 - 📫 How to reach me: zz1236zz@gmail.com
 
 <p align="center">    
@@ -25,7 +25,7 @@
 
 * 🖌 Researching on **AI** and **Computer Vision, Generative Models*. 
 
-* 🤩 Currently working on 3D Reconstruction and Sketch Generation.
+* 🤩 I have a specific interest in sketch generation, alongside experience in computer vision-related tasks and other areas."
 
 ### 🏎️ Projects And Studies.
 <table>
